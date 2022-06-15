@@ -5,5 +5,7 @@
 - add CSS comments 
 
 - Make web live/ deploy
-https://emismol.github.io/horiseon-challenge/
-https://github.com/emismol/horiseon-challenge
+
+[Link to Project](https://emismol.github.io/horiseon-challenge/)
+
+[Link to Github Repository](https://github.com/emismol/horiseon-challenge)
