@@ -9,3 +9,5 @@
 [Link to Project](https://emismol.github.io/horiseon-challenge/)
 
 [Link to Github Repository](https://github.com/emismol/horiseon-challenge)
+
+![home page image](/screenshots/homepagemainmenu.png)
