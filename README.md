@@ -23,4 +23,5 @@ In this activity we will work with an "on the ticket" request meaning we will be
 
 [Link to Github Repository](https://github.com/emismol/horiseon-challenge)
 
+final product example image
 ![home page image](/screenshots/finalwebpagehoriseon.png)
